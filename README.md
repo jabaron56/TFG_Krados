@@ -51,11 +51,9 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 ### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+_Software necesario para obtener una copia del proyecto el proyecto_
 
-```
-Da un ejemplo
-```
+-Xampp
 
 ### Instalación 🔧
 
