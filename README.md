@@ -4,9 +4,9 @@
 Krados es un proyecto orientado a ofrecer una solución para las pequeñas empresas que necesitan digitalizarse.
 Este proyecto incluye un **servicio REST** y una **aplicación Android** que servirá de ejemplo.
 
-<img src="https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png" alt="https://github.com/mouredev" style="max-width: 100%;">
+<img src="https://res.cloudinary.com/dpdob4mxw/image/upload/v1653066493/krados/krados_icon_cir_yo9fkb.svg" alt="https://github.com/mouredev" style="max-width: 100%;">
 
-![Image text](https://res.cloudinary.com/dpdob4mxw/image/upload/v1653066493/krados/krados_icon_cir_yo9fkb.svg)
+![Image text]()
 
 ## Código fuente 📕
 
