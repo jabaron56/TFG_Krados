@@ -4,7 +4,7 @@
 Krados es un proyecto orientado a ofrecer una solución para las pequeñas empresas que necesitan digitalizarse.
 Este proyecto incluye un **servicio REST** y una **aplicación Android** que servirá de ejemplo.
 
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
+![Image text](https://res.cloudinary.com/dpdob4mxw/image/upload/v1653066493/krados/krados_icon_sq_yukpin.svg)
 
 ## Código fuente 📕
 
