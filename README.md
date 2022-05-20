@@ -54,29 +54,27 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 _Software necesario para obtener una copia del proyecto el proyecto_
 
 -Xampp
+-Intellij IDEA
+-Android Studio
 
 ### Instalación 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+_Pasos a seguir_
 
-_Dí cómo será ese paso_
+1. _Lo primero es ejecutar el gestor XAMPP y arrancar apache y mysql._
+2. _Después tendras que ingresar en la opción de admin de mysql disponible en el gestor XAMPP y crear la base de datos **krados_database**._
+3. _Una vez creada la base de datos tendremos que dirigirnos al proyecto webService y ejecutar mediante Intellij los test que se encuentran en la ruta **\src\test\java\com\edix\krados** en el siguiente orden:_
+   - KradosApplicationRoles.
+   - KradosApplicationCategory.
+   - KradosApplicationProduct.
 
-```
-Da un ejemplo
-```
-
-_Y repite_
-
-```
-hasta finalizar
-```
 
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
 
 ## Despliegue
 
-_Agrega notas adicionales sobre como hacer deploy_
+_Aquí podrás ver las diferentes maneras de ejecutar la aplicación_
 
 ## Autores
 
