@@ -20,14 +20,15 @@ Aquí están los links de los repositorios en los que se han desarrollado tanto 
 ## Tabla de contenido 🔖
 
 - [Insertar HN](#insertar-hn)
-- [Construido con](#construido-con) 🛠️
+- [Construido con](#construido-con) 
 - [Instalación](#instalación) 
 - [Despliegue](#despliegue)
 - [Autores](#autores)
 
 ***
 
-### Construido con  🛠️
+### Construido con
+🛠️
 
 ### Herramientas 🔧
 
