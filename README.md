@@ -52,10 +52,10 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 _Software necesario para obtener una copia del proyecto el proyecto_
 
--Xampp
--Intellij IDEA
--Android Studio
-
+-Xampp  
+-Intellij IDEA  
+-Android Studio  
+ 
 ### Instalación y Despliegue 🔧
 
 _Pasos a seguir_
