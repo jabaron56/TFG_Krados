@@ -21,7 +21,6 @@ Aquí están los links de los repositorios en los que se han desarrollado tanto 
 
 - [Construido con](#construido-con) 🛠️
 - [Instalación](#instalación) 📦
-- [Despliegue](#despliegue) 🚀
 - [Autores](#autores) ✒️
 
 ***
@@ -57,23 +56,20 @@ _Software necesario para obtener una copia del proyecto el proyecto_
 -Intellij IDEA
 -Android Studio
 
-### Instalación 🔧
+### Instalación y Despliegue 🔧
 
 _Pasos a seguir_
 
 1. _Lo primero es ejecutar el gestor XAMPP y arrancar apache y mysql._
 2. _Después tendras que ingresar en la opción de admin de mysql disponible en el gestor XAMPP y crear la base de datos **krados_database**._
-3. _Una vez creada la base de datos tendremos que dirigirnos al proyecto webService y ejecutar mediante Intellij los test que se encuentran en la ruta **\src\test\java\com\edix\krados** en el siguiente orden:_
+3. _Una vez creada la base de datos tendremos que dirigirnos al proyecto webService y ejecutar el servicio **KradosApplication** que se encuentra en la ruta **\src\main\java\com\edix\krados**._
+4. _Ahora tendremos que dirigirnos al proyecto webService y ejecutar mediante Intellij las clases que se encuentran en la ruta **\src\test\java\com\edix\krados** en el siguiente orden:_
    - KradosApplicationRoles.
    - KradosApplicationCategory.
    - KradosApplicationProduct.
-
-
-
-
-## Despliegue
-
-_Aquí podrás ver las diferentes maneras de ejecutar la aplicación_
+5. _Con las clases anteriormente mencionadas se llena la base de datos con unos datos de prueba._
+6. _Ya tendriamos el servicio corriendo y la base de datos disponible, el siguiente paso sería ejecutar el proyecto de android mediante el emulador de Android Studio   _
+_Otra opción es instalar la apk que se encuentra en la carpeta de ejecutables de este repositorio en un dispositivo android físico y ejecutar a la vez el servicio REST en un servicio de hosting_
 
 ## Autores
 
