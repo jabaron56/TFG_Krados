@@ -20,7 +20,7 @@ Aquí están los links de los repositorios en los que se han desarrollado tanto 
 ## Tabla de contenido 🔖
 
 - [Insertar HN](#insertar-hn)
-- [Construido con](#construido-con-https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png) 
+- [Construido con](#construido-con-(https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png)) 
 - [Instalación](#instalación) 
 - [Despliegue](#despliegue)
 - [Autores](#autores)
