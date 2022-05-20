@@ -68,7 +68,7 @@ _Pasos a seguir_
    - KradosApplicationCategory.
    - KradosApplicationProduct.
 5. _Con las clases anteriormente mencionadas se llena la base de datos con unos datos de prueba._
-6. _Ya tendriamos el servicio corriendo y la base de datos disponible, el siguiente paso sería ejecutar el proyecto de android mediante el emulador de Android Studio   _  
+6. _Ya tendriamos el servicio corriendo y la base de datos disponible, el siguiente paso sería ejecutar el proyecto de android mediante el emulador de Android Studio_  
 Otra opción es instalar la apk que se encuentra en la carpeta de ejecutables de este repositorio en un dispositivo android físico y ejecutar a la vez el servicio REST en un servicio de hosting.
 
 ## Autores
