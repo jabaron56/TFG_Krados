@@ -20,14 +20,14 @@ Aquí están los links de los repositorios en los que se han desarrollado tanto 
 ## Tabla de contenido 🔖
 
 - [Insertar HN](#insertar-hn)
-- [Construido con](#construido-con-(https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png)) 
+- [Construido con](#construido-con) 
 - [Instalación](#instalación) 
 - [Despliegue](#despliegue)
 - [Autores](#autores)
 
 ***
 
-### Construido con 🛠️
+### Construido con
 
 
 ### Herramientas 🔧
@@ -44,7 +44,7 @@ Una lista de las tecnologías utilizadas en el proyecto:
 * [Spring Boot](https://spring.io/projects/spring-boot) - El framework utilizado.
 * [Maven](https://maven.apache.org/) - Manejador de dependencias
 
-## Instalación 📦
+## Instalación
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
 Mira **Deployment** para conocer como desplegar el proyecto.
@@ -77,11 +77,11 @@ hasta finalizar
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
 
-## Despliegue 🚀
+## Despliegue
 
 _Agrega notas adicionales sobre como hacer deploy_
 
-## Autores ✒️
+## Autores
 
 * **Javier Barón Pérez** - (https://github.com/jabaron56)
 * **Ismael De Gregorio López** - (https://github.com/Lufram)
