@@ -27,7 +27,7 @@ Aquí están los links de los repositorios en los que se han desarrollado tanto 
 
 ***
 
-### Construido con 🛠️
+### Construido con🛠️
 
 ### Herramientas 🔧
 
