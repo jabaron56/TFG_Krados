@@ -1,10 +1,10 @@
-
 ## TFG-krados <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<img src="https://res.cloudinary.com/dpdob4mxw/image/upload/v1653067281/krados/banner_zkwfiu.svg">
 
 Krados es un proyecto orientado a ofrecer una solución para las pequeñas empresas que necesitan digitalizarse.
 Este proyecto incluye un **servicio REST** y una **aplicación Android** que servirá de ejemplo.
 
-<img src="https://res.cloudinary.com/dpdob4mxw/image/upload/v1653067073/krados/banner_fcetvd.svg" style="max-width: 10%;">
 
 ## Código fuente 📕
 
