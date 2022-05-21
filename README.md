@@ -5,6 +5,9 @@
 Krados es un proyecto orientado a ofrecer una solución para las pequeñas empresas que necesitan digitalizarse.
 Este proyecto incluye un **servicio REST** y una **aplicación Android** que servirá de ejemplo.
 
+Video de demostración del proyecto en funcionamiento:  
+https://www.youtube.com/watch?v=6_11FosleYU
+
 
 ## Código fuente 📕
 
