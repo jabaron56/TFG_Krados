@@ -10,8 +10,10 @@ Este proyecto incluye un **servicio REST** y una **aplicación Android** que ser
 
 Aquí están los links de los repositorios en los que se han desarrollado tanto el servicio, como la aplicación:
 
- - 🔩 Repositorio con el codigo fuente del servicio REST: https://github.com/Lufram/TFG_Krados_webService
- - 📱 Repositorio con el codigo fuente de la aplicación Android:  https://github.com/Lufram/TFG_Krados_androidAPP 
+ - 🔩 Repositorio con el codigo fuente del servicio REST:  
+https://github.com/Lufram/TFG_Krados_webService
+ - 📱 Repositorio con el codigo fuente de la aplicación Android:  
+https://github.com/Lufram/TFG_Krados_androidAPP 
 
 
 
@@ -62,7 +64,7 @@ _Pasos a seguir_
 
 1. _Lo primero es ejecutar el gestor XAMPP y arrancar apache y mysql._
 2. _Después tendras que ingresar en la opción de admin de mysql disponible en el gestor XAMPP y crear la base de datos **krados_database**._
-3. _Una vez creada la base de datos tendremos que dirigirnos al proyecto webService y ejecutar el servicio **KradosApplication** que se encuentra en la ruta **\src\main\java\com\edix\krados**._
+3. _Una vez creada la base de datos tendremos que dirigirnos al proyecto webService y mediante Intellij ejecutar el servicio **KradosApplication** que se encuentra en la ruta **\src\main\java\com\edix\krados**._
 4. _Ahora tendremos que dirigirnos al proyecto webService y ejecutar mediante Intellij las clases que se encuentran en la ruta **\src\test\java\com\edix\krados** en el siguiente orden:_
    - KradosApplicationRoles.
    - KradosApplicationCategory.
